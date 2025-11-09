@@ -14,6 +14,6 @@ I'm currently a student at **MAJU University**, pursuing a degree in **Computer 
 
 ## 📫 Let's Connect
 - Email: *(dev.alhadi@gmail.com)*
-- LinkedIn: [Abdul Hadi] *(https://www.linkedin.com/in/abdul-hadi-07870030b/)*
+- LinkedIn: [Abdul Hadi] *(www.linkedin.com/in/alhadi-dev)*
 
 Thanks for visiting my profile! 😊
